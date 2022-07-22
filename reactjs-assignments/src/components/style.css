@@ -1,0 +1,28 @@
+
+
+.margin{
+    font-size: large;
+    margin-right: 5px;
+    margin-top: 5px;
+    float: left;
+}
+.card{
+    display:inline-flex;
+    justify-content:space-between;
+    margin: 15px;
+    margin-right: 20px;
+    min-width: 400px;
+    float: left;
+   
+}
+.image{
+    max-height: 200px;
+    background-color: rgba(128, 128, 128, 0.137);
+}
+.red{
+    font-size: large !important;
+}
+.flex{
+    margin-top: 5px;
+    float: left;
+}
