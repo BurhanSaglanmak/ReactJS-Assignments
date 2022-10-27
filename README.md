@@ -1,4 +1,4 @@
-# ReactJS Assignments Project
+# ReactJS Assignments Project [(LIVE)](https://assignments-project.netlify.app/)
 
 - Axios API ile JSON datası çekildi. (https://jsonplaceholder.typicode.com/users)
 
